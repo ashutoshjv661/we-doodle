@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ui/MainMenuScreen.qml</file>
+        <file>ui/GameButton.qml</file>
+        <file>ui/GameSelectScreen.qml</file>
+        <file>ui/LobbyScreen.qml</file>
+        <file>ui/JoinLobbyScreen.qml</file>
+        <file>ui/assets/check.png</file>
+        <file>ui/DoodleScreen.qml</file>
+        <file>ui/WaitingForPlayersScreen.qml</file>
+        <file>ui/DrawingInstructionScreen.qml</file>
+        <file>ui/VoteScreen.qml</file>
+        <file>ui/WinnerScreen.qml</file>
+    </qresource>
+</RCC>
